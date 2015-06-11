@@ -1,0 +1,2 @@
+ReadMe for Engines SimpleVault - Password Manager
+SimpleVault is a web-based tool that allows you to manage passwords or other secret information in a safe way. All secret information is encrypted using strong encryption algorithms. SimpleVault is particularly useful if you need to manage your secret data, or if you want to share secret information within a working group with trusted members. But it can also be used as a common tool for users who don't trust each other.
